@@ -1,0 +1,23 @@
+{
+  "name": "koa-restful-starter",
+  "version": "0.0.1",
+  "description": "koa-restful-starter",
+  "main": "index.js",
+  "repository": "https://github.com/zaleGZL/koa-restful-starter",
+  "author": "zaleguo",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.4.0",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-jwt": "^3.5.1",
+    "koa-router": "^7.4.0",
+    "koa-send": "^5.0.0",
+    "koa-static": "^5.0.0",
+    "moment": "^2.22.2",
+    "mongoose": "^5.3.13",
+    "parameter": "^3.4.0",
+    "shortid": "^2.2.14"
+  }
+}
